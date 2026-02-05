@@ -10,3 +10,7 @@ Simple Python tool to forecast monthly/annual power demand from AI-driven hypers
 Goal: Scenario modeling to show gaps & clean supply options.
 
 MIT Licensed.
+## Quick Start (Colab or local)
+```bash
+pip install -r requirements.txt
+streamlit run app.py   # interactive dashboard
